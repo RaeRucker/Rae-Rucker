@@ -39,6 +39,7 @@ My experience in computer science has sparked a deep interest in cybersecurity, 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005C4A?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
