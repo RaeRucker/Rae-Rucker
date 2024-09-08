@@ -7,7 +7,7 @@ I am a student attending Rowan University Majoring in Computer Science. I am als
 Thank you for considering me for an opportunity with your company.
 
 ## Objective
-My experience in computer science has sparked a deep interest in cybersecurity, and I’m excited to shift my focus to this field. I’m particularly eager to join a Security Operations Center (SOC) as a Tier 1 Analyst."
+My experience in computer science has sparked a deep interest in cybersecurity, and I’m excited to shift my focus to this field. I’m particularly eager to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -15,7 +15,7 @@ My experience in computer science has sparked a deep interest in cybersecurity, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | |
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Traffic Monitoring and Attack Detection</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/RaeRucker/Security-Incident-Automation-with-Wazuh-Shuffle-and-TheHive/blob/main/README.md">Security-Incident-Automation-with-Wazuh-Shuffle</a>|
 
 ## Tools
