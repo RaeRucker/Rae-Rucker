@@ -1,7 +1,6 @@
 # Hello, I'm Rae Rucker!
 <a href="https://www.linkedin.com/in/rae-rucker-929048273/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a student attending Rowan University Majoring in Computer Science. I am also a 22 year old combat veteran with a genuine love for technology and a strong drive to unravel complex problems.
 
