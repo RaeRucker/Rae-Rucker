@@ -14,8 +14,7 @@ My experience in computer science has sparked a deep interest in cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Traffic Monitoring and Attack Detection</a>|
+| Honeypot Through Cowerie | <a href="https://google.com">Cowerie Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/RaeRucker/Security-Incident-Automation-with-Wazuh-Shuffle-and-TheHive/blob/main/README.md">Security-Incident-Automation-with-Wazuh-Shuffle</a>|
 
 ## Tools
